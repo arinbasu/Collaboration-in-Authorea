@@ -1,1 +1,1 @@
-Collaboration in Authorea
+Collaborating in Authorea
