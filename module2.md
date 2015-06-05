@@ -43,7 +43,7 @@
 * Select the appropriate binary, download, and double click to install
 
 ## After Installation, appearance of R
-![Appearance of R after installation](Rscreenshot.png)
+
 
 
 ## Use R with other editors
@@ -59,7 +59,7 @@
 * Then Install RStudio
 
 ## Appearance of RStudio
-![Screenshot of Rstudio](Rstudio.png)
+
 
 ## First, Set Your Directory
 * Always set a directory where you will be working
@@ -76,7 +76,7 @@
 * Example: for linear regression, type, ??”linear regression”
 
 ## Screenshot of “??”linear regression”
-![Screenshot of query you are not sure of](regression.png)
+
 
 ## Third, how to obtain help outside of R
 * Read the R FAQ, http://cran.r-project.org/doc/FAQ/R-FAQ.html
