@@ -1,1 +1,2 @@
-_Oh, an empty article!_ You can get started by **double clicking** this text block and begin editing. You can also click the **Insert** button below to add new block elements. Or you can **drag and drop an image** right onto this text!
+The purpose of this article is to test whether it is possible to write entirely in markdown in Authorea, and then download everything, or add stuff written in markdown and then work or export in any format we llike. 
+Of course in markdown you do not get tables, so peharps open a table in another chunk. 
